@@ -11,11 +11,13 @@ I'm a web developer focused on the MERN stack and backend development with Postg
 ## 📫 Contact Me
 
 - **Email:** andresfcardoso1997@gmail.com
-- **Discord:** Andr33s#3354
+- **Discord:** [Andr33s#3354](discord://discordapp.com/users/Andr33s#3354)
 
 ---
 
 🌍 Always ready to collaborate and contribute!
+
+
 
 
 
